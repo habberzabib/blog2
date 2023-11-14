@@ -1,0 +1,49 @@
+html {
+  background: url(https://live.staticflickr.com/2215/2525514678_9022bf26bb_b.jpg)
+    no-repeat center fixed;
+  background-size: cover;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.83);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+.align1 {
+  text-align: left;
+}
+
+.align2 {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+p {
+  color: black;
+  text-align: justify;
+  font-size: larger;
+}
+
+img {
+  border-radius: 15px;
+}
+
+button {
+  width: 600px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+  color: white;
+  background-color: red;
+}
